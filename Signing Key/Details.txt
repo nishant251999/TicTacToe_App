@@ -1,0 +1,2 @@
+Alias = upload
+Pw = 123456

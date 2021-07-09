@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#98D4FB"
+    android:background="@color/bgColor"
     tools:context=".MainActivity">
 
     <TextView
@@ -43,7 +43,7 @@
                 android:layout_margin="8dp"
                 android:backgroundTint = "#91A2E1"
                 android:layout_weight="1"
-                android:textSize="60sp" />
+                android:textSize="60sp"/>
 
             <Button
                 android:id="@+id/iv01"

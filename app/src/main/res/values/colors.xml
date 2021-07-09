@@ -10,4 +10,5 @@
     <color name="green">#31C037</color>
     <color name="violet">#91A2E1</color>
     <color name="red">#E83629</color>
+    <color name="bgColor">#FFFFFF</color>
 </resources>
